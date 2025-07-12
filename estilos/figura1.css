@@ -2,6 +2,9 @@
     width: 200px;
     height: 200px;
     background-color: gray;
+     display: flex;
+    align-items: center;
+    text-align: center;
   }
   
   .cuadro-interno {
