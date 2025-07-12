@@ -1,0 +1,13 @@
+.figura1 {
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+  }
+  
+  .cuadro-interno {
+    width: 100px;
+    height: 100px;
+    background-color: lightgray;
+    margin: 50px auto;
+  }
+  
